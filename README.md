@@ -4,7 +4,7 @@
 * [x] 💻 A Full Stack Web Developer 
 * [x] 🇲🇦 From Morocco
 * [x] 🇫🇷 Living in France
-* [x] I **LOVE** Using :
+* [x] I **LOVE** to use :
   - PHP ([Phalcon FrameWork](https://phalcon.io/))
   - HTML/CSS ([Bootstap](http://getbootstrap.com/) ,...)
   - JavaScript ([NodeJS](http://nodejs.org/) , [Jquery](http://jquery.com/) , ...)
