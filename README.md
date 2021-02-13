@@ -6,7 +6,7 @@
 * [x] 🇫🇷 Living in France
 * [x] i **LIKE** to use :
   - PHP ([Phalcon](https://phalcon.io/))
-  - HTML/CSS ( [TailwindCss](https://tailwindcss.com) [Bootstap](http://getbootstrap.com/) ,...)
+  - HTML/CSS ( [TailwindCss](https://tailwindcss.com), [Bootstap](http://getbootstrap.com/) ,...)
   - JavaScript ([NodeJS](http://nodejs.org/), [VueJs](https://vuejs.org/) ,[React](https://reactjs.org/), [Jquery](http://jquery.com/) , ...)
   - PYTHON ([Flask](https://palletsprojects.com/p/flask/))
   - SQL, NoSQL ([Mysql](https://www.mysql.com/), [Postgresql](https://www.postgresql.org/), [Mongodb](https://docs.mongodb.com/))
