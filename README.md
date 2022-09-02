@@ -2,7 +2,6 @@
 ### Hi 👋 ! I'm Yassine
 
 🚀 I Started *Programming* _Coding_ Since 2011 | 💻 A Full Stack Web Developer | 🇲🇦 From Morocco | 🇫🇷 Living in France
-📫 Discord : [**Neutrapp**](https://discord.gg/zD9zZS8P)
 
 | - | - |
 |---|---|
