@@ -1,7 +1,7 @@
 
 ### Hi 👋 ! I'm Yassine
 
-🚀 I started *coding* since I was a kid, what a great time! | 💻 A Senior Full Stack Web Developer 
+🚀 I started *coding* since I was a kid, what a great time! | 💻 A Senior Full Stack Developer 
 
 | - | - |
 |---|---|
