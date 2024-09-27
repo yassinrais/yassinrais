@@ -1,7 +1,7 @@
 
 ### Hi 👋 ! I'm Yassine
 
-🚀 I Started *Programming* _Coding_ Since 2011 | 💻 A Full Stack Web Developer | 🇲🇦 From Morocco | 🇫🇷 Living in France
+🚀 I started *coding* since I was a kid, what a great time! | 💻 A Senior Full Stack Web Developer 
 
 | - | - |
 |---|---|
